@@ -61898,7 +61898,7 @@ KY(a){var s=t.N
 return B.ao.yO(A.av(["time",A.aoU("yyyy-MM-dd kk:mm:ss").oF(0,new A.cZ(Date.now(),!1)),"msg",a],s,s),null)},
 a6B(a){var s=this.a
 if(a>=s.length)return this.KY("Index out of range! (Should never happen!)")
-else return s[B.i.cN(a,100)]}}
+else return s[B.i.cN(a,20)]}}
 A.CL.prototype={
 YV(a,b){var s=t.dM
 if(A.fo(a,!1,s).a.length===0)return
